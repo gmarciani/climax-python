@@ -4,7 +4,8 @@
 0.0.2
 -----
 
-- [dependencies] pyfiglet-0.8.post1
+- [Dependencies] pyfiglet-0.8.post1
+- [Dependencies] click-8.0.3
 
 
 0.0.1
